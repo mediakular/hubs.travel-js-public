@@ -1,0 +1,20 @@
+{
+  "name": "hubs-travel-js",
+  "version": "0.0.5",
+  "description": "",
+  "homepage": "https://github.com/mediakular/hubs.travel-js-public#readme",
+  "bugs": {
+    "url": "https://github.com/mediakular/hubs.travel-js-public/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mediakular/hubs.travel-js-public.git"
+  },
+  "license": "ISC",
+  "author": "mediakular",
+  "type": "commonjs",
+  "main": "bundle-about-us.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
