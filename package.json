@@ -13,7 +13,7 @@
   "license": "ISC",
   "author": "mediakular",
   "type": "commonjs",
-  "main": "bundle-about-us.min.js",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
